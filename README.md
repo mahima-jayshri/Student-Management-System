@@ -140,16 +140,6 @@ mysql-connector-python
 
 ---
 
-## ✔️ Future Enhancements (Optional)
-
-You may extend the project later by adding:
-
-* GUI (Tkinter / PyQt)
-* REST API (Flask / FastAPI)
-* CSV/Excel export
-* User authentication system
-
----
 
 ## 👨‍💻 Author
 
